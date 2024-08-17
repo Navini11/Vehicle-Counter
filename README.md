@@ -2,6 +2,8 @@
 
 This repository contains the implementation of a vehicle counter system that detects and counts vehicles in different lanes. The project utilizes computer vision techniques powered by OpenCV and deep learning models with TensorFlow.
 
+![image](https://github.com/user-attachments/assets/d22c5690-6a9e-4cd4-8d1f-a42f77e3a4ba)
+
 ## 📄 Contents
 
 - `License Plate Detection.py`: A script for detecting and recognizing license plates on vehicles.
